@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WotaGei</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="wotaStart">すたあと！</string>
+    <string name="wotaCreate">くりえと！</string>
+    <string name="wotaOption">おぷしょ！</string>
+    <string name="urya">ウリャ</string>
+    <string name="oi">オイ</string>
+
+</resources>
